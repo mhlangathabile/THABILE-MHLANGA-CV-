@@ -1,0 +1,29 @@
+img {
+  width: 150px;
+}
+
+.skills {
+  margin-right: 20px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+a {
+  font-size: 20px;
+}
+
+.connect {
+  margin-right: 50px;
+  font-size: 30px;
+  margin-top: 10px;
+}
